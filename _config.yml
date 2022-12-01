@@ -19,7 +19,6 @@ email: angeljach@gmail.com
 darkmode: false
 
 # Social links
-#twitter_username: jekyllrb
 github_username:  angeljach
 stackoverflow_username: "1850701"
 #dribbble_username: jekyll
@@ -27,6 +26,7 @@ stackoverflow_username: "1850701"
 #flickr_username: jekyll
 #instagram_username: jekyll
 linkedin_username: angelch
+twitter_username: angeljach
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
