@@ -103,7 +103,7 @@ content:
           A+ (best grade of the generation)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-    content:
+
       - layout: top-right
         title: UNITEC South Campus
         sub_title: Postgrade in Computer Network
