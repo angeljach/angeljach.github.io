@@ -96,13 +96,13 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: UNITEC South Campus
+        sub_title: Computer Systems Engineering
+        caption: 2000 - 2003
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          A+ (best grade of the generation)
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
