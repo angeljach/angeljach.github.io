@@ -83,16 +83,16 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Prime Time
         sub_title: Head of Infraestructure and Data
         caption: July 2021 - Present
         link: www.prime-time.mx
-        quote: >
-          FinTech
+        # quote: >
+        #   FinTech
         description: | # this will include new lines to allow paragraphs
           Management company services in AWS (EC2, RDS, ECS, …), Azure, OCI, …
-          
+
           Administration of company domain, security, data, operational incidents, regulatory reports, personal computers, monitoring tools, …
 
           Automation of tasks developing programs in Python and Go.
@@ -101,23 +101,23 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: UNITEC South Campus
         sub_title: Computer Systems Engineering
         caption: 2000 - 2003
-        quote: >
+        # quote: >
+        #   A+ (best grade of the generation)
+        description: | # this will include new lines to allow paragraphs
           A+ (best grade of the generation)
-        # description: | # this will include new lines to allow paragraphs
-        #   Description of qualification
 
-      - layout: top-right
+      - layout: left
         title: UNITEC South Campus
         sub_title: Postgrade in Computer Network
         caption: 2004 - 2005
-        quote: >
+        # quote: >
+        #   CCNA Training
+        description: | # this will include new lines to allow paragraphs
           CCNA Training
-        # description: | # this will include new lines to allow paragraphs
-        #   Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
