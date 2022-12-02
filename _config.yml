@@ -103,6 +103,15 @@ content:
           A+ (best grade of the generation)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
+    content:
+      - layout: top-right
+        title: UNITEC South Campus
+        sub_title: Postgrade in Computer Network
+        caption: 2004 - 2005
+        quote: >
+          CCNA Training
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
