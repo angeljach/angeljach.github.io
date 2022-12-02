@@ -84,14 +84,20 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Prime Time
+        sub_title: Head of Infraestructure and Data
+        caption: July 2021 - Present
+        link: www.prime-time.mx
         quote: >
-          Short description of the company (optional)
+          FinTech
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Management company services in AWS (EC2, RDS, ECS, …), Azure, OCI, …
+          
+          Administration of company domain, security, data, operational incidents, regulatory reports, personal computers, monitoring tools, …
+
+          Automation of tasks developing programs in Python and Go.
+
+          IaC with Terraform and Pulumi.
   - title: Education
     layout: list
     content:
