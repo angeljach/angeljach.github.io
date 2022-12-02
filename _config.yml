@@ -99,19 +99,62 @@ content:
 
           IaC with Terraform and Pulumi.
 
+          Internal CTO from February 2022 to July 2022
       - layout: left
         title: Mexican Stock Exchange
         sub_title: Market Data Support Manager
         caption: July 2015 - June 2021
         link: www.bmv.com.mx
-        # quote: >
-        #   FinTech
         description: | # this will include new lines to allow paragraphs
           Administration, follow-up of incidents and support for the area’s products (Market Data feed, BMV Website, Data Bases, Web Services, SiBolsa, …).
           
           Definition and implementation of Multicast project, BMV site migration.
           
           Automation of tasks developing programs in Python and Java.
+      - layout: left
+        title: Mexican Stock Exchange
+        sub_title: Technology Internal Audit Specialist
+        caption: September 2011 - July 2015
+        link: www.bmv.com.mx
+        description: | # this will include new lines to allow paragraphs
+          Performance of audits focused on technological risks to the MSE group.
+
+          Development of Track Audit application, automating the audit cycle (requirements, risk analysis, observations, follow-up) in Java.
+      - layout: left
+        title: Mexican Stock Exchange
+        sub_title: Java Support and Development Specialist
+        caption: September 2009 - September 2011
+        link: www.bmv.com.mx
+        description: | # this will include new lines to allow paragraphs
+          Monitoring and incident support of Tx between the Brokerage Houses and the MSE.
+
+          Web applications and maintenance of “core” applications in Java.
+      - layout: left
+        title: Citigroup (Banamex)
+        sub_title: Administrator of Servers, Applications and Data Bases
+        caption: October 2004 - September 2009
+        link: www.banamex.com
+        description: | # this will include new lines to allow paragraphs
+          Configuration and administration of servers and Data Bases.
+
+          Development of Web and desktop applications in .NET.
+      - layout: left
+        title: Call Center implementation project
+        sub_title: AMI – Consultants & Business
+        caption: September 2007 - February 2008
+        description: | # this will include new lines to allow paragraphs
+          IT implementation (servers, domain, network, …).
+
+          Development of program for managing calls to customers in .NET.
+      - layout: left
+        title: Citigroup (Banamex)
+        sub_title: Information Security Administrator
+        caption: January 2004 - September 2004
+        link: www.banamex.com
+        description: | # this will include new lines to allow paragraphs
+          Administration of Domain users, Data Bases and internal apps.
+
+          Development of applications (help desk, reports, …) and data analysis.
   - title: Education
     layout: list
     content:
