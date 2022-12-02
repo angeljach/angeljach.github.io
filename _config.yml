@@ -98,6 +98,20 @@ content:
           Automation of tasks developing programs in Python and Go.
 
           IaC with Terraform and Pulumi.
+
+      - layout: left
+        title: Mexican Stock Exchange
+        sub_title: Market Data Support Manager
+        caption: July 2015 - June 2021
+        link: www.bmv.com.mx
+        # quote: >
+        #   FinTech
+        description: | # this will include new lines to allow paragraphs
+          Administration, follow-up of incidents and support for the area’s products (Market Data feed, BMV Website, Data Bases, Web Services, SiBolsa, …).
+          
+          Definition and implementation of Multicast project, BMV site migration.
+          
+          Automation of tasks developing programs in Python and Java.
   - title: Education
     layout: list
     content:
@@ -117,7 +131,7 @@ content:
         # quote: >
         #   CCNA Training
         description: | # this will include new lines to allow paragraphs
-          CCNA Training
+          Including CCNA Training
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
