@@ -59,12 +59,19 @@ about_profile_image: images/jach.jpg
 #     - <a href="google.com">Links</a>
 #     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 about_content: |
-  I'm a T-shaped Engineer with more than 15 years of experience in Infrastructure and Software Development.
+  I'm a Computer Engineer with more than 15 years of experience in Infrastructure and Software Development.
 
-  The last years of my career I've been working with fintech startups.
+  All my working life has been focused on technology in the financial sector from banks, the stock market 
+  and currently the fintech sector.
 
-  My main skills are Infrastructure Administration (servers and DB), on-premises and cloud architecture 
-  (mainly AWS using IaC with terraform), software development (python, golang, java), Risk Management and IT Governance.
+  I have been in various job positions that have allowed me to get to know the business from an operational,
+  administrative and regulatory perspective. Currently I have focused on the personnel management,
+  coordinating technological and operational teams, always seeking to obtain the best results necessary for the
+  company, taking care the human side with the collaborators.
+
+  My technical main skills are Infrastructure Administration (servers and DB), on-premises and cloud architecture 
+  (mainly AWS using IaC with terraform), software development (python, golang, java), Risk Management and
+  IT Governance.
 
 content:
   # - title: Projects # Title for the section
@@ -94,12 +101,21 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: AWS Cloud Practitioner
-        link: https://www.credly.com/badges/a48e28da-47de-47e4-b8fb-e0f0718085fc/
+        link: https://www.credly.com/badges/a48e28da-47de-47e4-b8fb-e0f0718085fc
         link_text: AWS Certified Cloud Practitioner
         description: | # this will include new lines to allow paragraphs
           Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. 
           They demonstrated cloud fluency and foundational AWS knowledge.
           Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: CISA by ISACA
+        link: https://www.credly.com/badges/eed41aaa-c3d3-47b9-b002-e1c521cbec6f
+        link_text: Certified Information Systems Auditor
+        description: | # this will include new lines to allow paragraphs
+          The CISA certification is world-renowned as the standard of achievement for those who audit,
+          control, monitor and assess an organization's information technology and business systems.
   - title: Experience
     layout: list
     content:
