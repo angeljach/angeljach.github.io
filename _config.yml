@@ -70,7 +70,7 @@ about_content: |
   company, taking care the human side with the collaborators.
 
   My technical main skills are Infrastructure Administration (servers and DB), on-premises and cloud architecture 
-  (mainly AWS using IaC with terraform), software development (python, golang, java), Risk Management and
+  (mainly <mark>AWS</mark> using IaC with <mark>Terraform</mark>), software development (<mark>Python</mark>, <mark>Go</mark>, <mark>Java</mark>), Risk Management and
   IT Governance.
 
 content:
@@ -125,14 +125,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           Data, DevOps, Techincal Support and Security Team management.
 
-          Management company services in AWS (EC2, RDS, ECS, …), Azure, IBM, Huawei and OCI
+          Management company services in <mark>AWS</mark> (EC2, RDS, ECS, …), <mark>Azure</mark>, <mark>IBM</mark>, <mark>Huawei</mark> and <mark>OCI</mark>.
 
           Administration of company domain, security, data, operational incidents, regulatory reports,
           personal computers, monitoring tools, …
 
-          Automation of tasks developing programs in Python and Go.
+          Automation of tasks developing programs in <mark>Python</mark> and <mark>Go</mark>.
 
-          IaC with Terraform and Pulumi.
+          IaC with <mark>Terraform</mark> and <mark>Pulumi</mark>.
 
           Internal CTO from February 2022 to April 2022
       - layout: left
@@ -149,7 +149,7 @@ content:
           
           Migration project of the content manager of the BMV Website.
           
-          Automation of tasks developing programs in Python and Java.
+          Automation of tasks developing programs in <mark>Python</mark> and <mark>Java</mark>.
       - layout: left
         title: Mexican Stock Exchange
         sub_title: Technology Internal Audit Specialist
@@ -159,7 +159,7 @@ content:
           Performance of audits focused on technological risks to the MSE group.
 
           Development of "Track Audit" application, automating the audit cycle (requirements, risk analysis,
-          observations, follow-up) in Java Server Faces and PostgreSQL DB.
+          observations, follow-up) in <mark>Java Server Faces</mark> and <mark>PostgreSQL</mark> DB.
       - layout: left
         title: Mexican Stock Exchange
         sub_title: Java Support and Development Specialist
@@ -168,18 +168,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Monitoring and incident support of transactions between the Brokerage Houses and the MSE.
 
-          Web applications and maintenance of "core" applications in Java.
+          Web applications and maintenance of "core" applications in <mark>Java</mark>.
 
-          Infrastructure monitoring with Nagios.
+          Infrastructure monitoring with <mark>Nagios</mark>.
       - layout: left
         title: Citigroup (Banamex)
         sub_title: Administrator of Servers, Applications and Data Bases
         caption: October 2004 - September 2009
         link: www.banamex.com
         description: | # this will include new lines to allow paragraphs
-          Configuration and administration of servers and Data Bases (Windows, Linux and Solaris).
+          Configuration and administration of servers (<mark>Windows</mark>, <mark>Linux</mark> and <mark>Solaris</mark>) and Data Bases
+          (<mark>Oracle</mark>, <mark>Sybase</mark>, <mark>SQL Server</mark>).
 
-          Development of Web and desktop applications in .NET (tickets manager, monitoring tools, incident reports, ...).
+          Development of Web and desktop applications in <mark>.NET</mark> (tickets manager, monitoring tools, incident reports, ...).
       - layout: left
         title: Call Center implementation project
         sub_title: AMI – Consultants & Business
@@ -187,7 +188,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           IT implementation (servers, domain, network, …).
 
-          Development of program for managing calls to customers in .NET.
+          Development of program for managing calls to customers in <mark>.NET</mark>.
       - layout: left
         title: Citigroup (Banamex)
         sub_title: Information Security Administrator
