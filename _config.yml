@@ -217,6 +217,17 @@ content:
         #   CCNA Training
         description: | # this will include new lines to allow paragraphs
           Including CCNA Training
+  - title: Languages
+    layout: list
+    content:
+      - layout: left
+        title: Spanish        
+        description: | # this will include new lines to allow paragraphs
+          Native speaker
+      - layout: left
+        title: English
+        description: | # this will include new lines to allow paragraphs
+          Proficient
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
