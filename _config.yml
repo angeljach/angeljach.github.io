@@ -220,7 +220,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Images ![Interests](/images/interests.png "Interests")
+      ![Skills](/images/skills.png "skills")
+      ![Evolution and Interests](/images/interests.png "EandI")
 
 # Footer
 footer_show_references: true
