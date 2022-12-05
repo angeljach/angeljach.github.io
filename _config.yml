@@ -125,7 +125,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           Data, DevOps, Techincal Support and Security Team management.
 
-          Management company services in <mark>AWS</mark> (EC2, RDS, ECS, …), <mark>Azure</mark>, <mark>IBM</mark>, <mark>Huawei</mark> and <mark>OCI</mark>.
+          Management company services in the cloud: <mark>AWS</mark>, <mark>Azure</mark>, <mark>IBM</mark>, <mark>Huawei</mark> and <mark>OCI</mark>.
+
+          Some AWS Projects include the following:
+          - AWS RDS creation, configuration, audit and replication.
+          - Orchestring microservices with services and tasks on <mark>ECS</mark> and storing Docker images using <mark>ECR</mark>.
+          - Creation and administration of several serverless services using <mark>Lambda</mark>, <mark>Event Bridge</mark>, <mark>SNS</mark> and <mark>SQS</mark> queues.
+          - Network cost optimizations using <mark>VPC Endpoint</mark> with <mark>S3</mark>.
+          - Site to Site and Client VPN Network configurations.
+          - Monitoring cloud alarms using <mark>CloudWatch</mark> and <mark>GuardDuty</mark>.
 
           Administration of company domain, security, data, operational incidents, regulatory reports,
           personal computers, monitoring tools, …
